@@ -2,7 +2,9 @@
 .image-size{
      width: 220px;
 }
-
+.nav-bg{
+    background-color:#FFFBF0 ;
+}
 .bag-card{
     border: 0;
 }
