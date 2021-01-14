@@ -12,32 +12,44 @@
 }
 h1{
     font-family: 'Bebas Neue', cursive;
-    
+    color: #200239c7;
 }
 .text-large{
-    font-size: 200%;
+    font-size: 460%;
 }
 h2{
     font-family: 'Bebas Neue', cursive;
+    color: #200239c7;
 }
 h4{
-    font-weight: 600;
+    font-weight: 700;
+    color: #200239c7;
 }
 h3{
     font-weight: 700;
+    color: #200239c7;
 }
 h5{
     font-weight: 700;  
+    color: #200239c7;
 }
 .color{
     color: #109959d9;
 }
 .bg-color{
-    background-color:#f6cc4e33;
+    background-color:#FFFBF0;
 }
+.btn{
+    background-color: #430e70;
+    color: white;
+}
+/* .btn-text{
+    color: white;
+} */
 .border-radious{
     border-radius: 1em;
 }
 .footer{
-    background-color: gray;
+    background-color: #200239c7;
+    color: white;
 }
