@@ -55,3 +55,33 @@ h5{
     background-color: #200239c7;
     color: white;
 }
+/* responsive */
+
+
+
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+    .right-item{
+        order: 0;
+    }
+    .left-item{
+        order: 1;
+    }
+    .bag{
+        text-align: center;
+    }
+ }
+
+// X-Small devices (portrait phones, less than 576px)
+@media (max-width: 576px) { 
+    .left-item{
+        order: 1;
+    }
+    .right-item{
+        order: 0;
+    }
+    h2{
+        text-align: center;
+    }
+ }
